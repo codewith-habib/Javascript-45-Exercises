@@ -1,0 +1,1 @@
+console.log("Umar ibn Al-Khattab once said, “The best way to defeat someone is to beat him at politeness.”")
